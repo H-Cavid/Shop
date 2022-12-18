@@ -1,70 +1,70 @@
 const shop = [
     {
         id: 0,
-        name: "as",
+        name: "Hello",
         amount: 1231,
         price: 12233
     },
 
     {
         id: 1,
-        name: "acas",
+        name: "Hallo",
         amount: 1321231,
         price: 1221233
     },
 
     {
         id: 2,
-        name: "aasds",
+        name: "Tschüss",
         amount: 1231,
         price: 12233
     },
     
     {
         id: 3,
-        name: "acdass",
+        name: "Do widzenia",
         amount: 123,
         price: 12313
     },
 
     {
         id: 4,
-        name: "asdas",
+        name: "sbohem",
         amount: 121,
         price: 12233
     },
 
     {
         id: 5,
-        name: "adsads",
+        name: "Adiós",
         amount: 123,
         price: 21
     },
 
     {
         id: 6,
-        name: "asdasd",
+        name: "Пока",
         amount: 231,
         price: 112323
     },
 
     {
         id: 7,
-        name: "asds",
+        name: "Αντίο",
         amount: 1231,
         price: 11323
     },
 
     {
         id: 8,
-        name: "adasds",
+        name: "Au revoir",
         amount: 12,
         price: 1323
     },
 
     {
         id: 9,
-        name: "adsass",
+        name: "Ciao",
         amount: 12,
         price: 13
     },
